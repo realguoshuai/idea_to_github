@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../tripflatform/collector/flume/flumemock/flumemock.iml" filepath="$PROJECT_DIR$/../tripflatform/collector/flume/flumemock/flumemock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tripflatform/stream/public_sentiment/public_sentiment.iml" filepath="$PROJECT_DIR$/../tripflatform/stream/public_sentiment/public_sentiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tripflatform/collector/sqoop/sqoop_pg/sqoop_pg.iml" filepath="$PROJECT_DIR$/../tripflatform/collector/sqoop/sqoop_pg/sqoop_pg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tripflatform/datawarehouse/spark/trip_spark/trip_spark.iml" filepath="$PROJECT_DIR$/../tripflatform/datawarehouse/spark/trip_spark/trip_spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tripflatform/tripflatform.iml" filepath="$PROJECT_DIR$/../tripflatform/tripflatform.iml" />
+    </modules>
+  </component>
+</project>
